@@ -1,0 +1,7 @@
+.idea 
+*.pyc
+db.sqlite3
+djproj
+djsklep
+media
+.vscode
